@@ -1,2 +1,0 @@
-include ':app', ':zxing_lib'
-rootProject.name='Survey'
